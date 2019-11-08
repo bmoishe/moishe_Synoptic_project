@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #254441;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.button {
+  border: 1px solid #254441;
+  color: #254441;
+  width:100px;
+  border-radius: 5px;
+}
+
+.button:hover {
+background-color: #254441;
+color: white;
+}
+
+.heading{
+  color: #254441;
+  font-weight: 800;
+  font-size: 40px;
+}
+
+input {
+  outline: 1px solid #254441;
+}
+input:hover {
+  outline: 2px solid #254441;
+}
+/* Color scheme */
+/* 
+#DB504A
+FF6F59
+254441
+43AA8B
+B2B09B
+
+*/

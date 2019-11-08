@@ -1,0 +1,86 @@
+.logout{
+  color:  #43AA8B;
+}
+
+.logout:hover{
+  color:#B2B09B;
+  
+}
+.welcome{
+  color:#254441;
+  margin:20px;
+}
+
+.quiz-containers{
+/* color:#254441; */
+margin:5px;
+padding: 20px;
+border: 1px solid #254441;
+-webkit-flex: 0 1 auto;
+-ms-flex: 0 1 auto;
+flex: 0 1 auto;
+-webkit-align-self: center;
+-ms-flex-item-align: center;
+align-self: center;
+width:100px;
+border-radius: 5px;
+}
+
+.quiz-name{
+color:#254441;
+border: 1px solid #254441;
+padding:5px;
+margin:5px;
+border-radius: 5px;
+}
+.quiz-name:hover{
+  color:white;
+  background-color: #254441;
+}
+
+.quizzes-container{
+  margin:20px;
+  width:40%;
+  display: -ms-inline-flexbox;
+    display: -webkit-inline-flex;
+    display: inline-flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: space-around;
+    justify-content: space-around;
+    -webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.create-quiz-button{
+  border: 1px solid #254441;
+  color: #254441;
+  border-radius: 5px;
+}
+
+.create-quiz-button:hover{
+  background-color: #254441;
+  color: white;
+}
+
+/* .selected-quiz-container{
+
+} */
+/* Color scheme */
+/* 
+#DB504A
+#FF6F59
+#254441
+#43AA8B
+#B2B09B
+
+*/
